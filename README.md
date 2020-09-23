@@ -1,3 +1,4 @@
+# Liczby rzymskie
 1. Podajemy liczbę np. 2563 <br>
 - 2563 >= 1000; więc zwiększamy ją o największą możliwość wartość (1000).
 - Dzielenie 2563/1000 -> 2 reszta 563. Odpowiadający symbol **M** zostanie powtórzony dwukrotnie.
